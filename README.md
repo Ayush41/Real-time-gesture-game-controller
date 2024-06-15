@@ -2,13 +2,13 @@
 It is a Real Time Gesture Game Controller that uses OpenCV, Mediapipe and Pynput to controll game using hand gestures
 
 # Dependencies/Libraries required
-*OpenCV
-*MediaPipe
-*Pynput
+*OpenCV<br>
+*MediaPipe<br>
+*Pynput<br>
 
 # To install the modules use
-pip install opencv-python
-pip install mediapipe
+pip install opencv-python <br>
+pip install mediapipe<br>
 
-# Things to know
-Need to have a Camera Placed in the device you are running the program
+# Things to know<br>
+Need to have a Camera Placed in the device you are running the program<br>
